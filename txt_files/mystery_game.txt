@@ -1,0 +1,9 @@
+rnbqkbnr
+m-mmmmmm
+---M----
+-----m--
+M-------
+--------
+-MMMM-MM
+RNBQKBNR
+b

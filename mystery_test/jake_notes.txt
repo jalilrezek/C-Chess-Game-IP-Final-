@@ -1,0 +1,11 @@
+Changes I made:
+
+1) Reorganized the repo for easier readability. This required changes to the makefile so that it had access to each of the new directories. 
+(I think this is okay for grading since it seemed like a suggestion to not change the makefile, but we can revert to the provided version it if not)
+2) Added a gitignore so executables weren't uploaded to the repo
+3) Updated the display to print out a full checkered board
+4)Removed Unnecessary get_occ, clear_board, and delete_map functions
+5)Added comments and indents for better style
+6)Most up-to-date git log is here
+7)Implemented and tested mystery.h, needed to tweak point_value and Piece.h for this(see Piazza post, this is ok now)
+8)Wrote the README File

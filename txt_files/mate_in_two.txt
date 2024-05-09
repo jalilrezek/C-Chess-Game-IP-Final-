@@ -1,0 +1,8 @@
+M F2F3
+M E7E6
+M G2G4
+M D8H4
+
+// Jalil:
+Try doing M H2G3 (move pawn diagonally even though it shouldn't be able to, to block the queen from killing king)
+pawn's movement was wrong - only checked one of the two coordinates - i fixed it.
